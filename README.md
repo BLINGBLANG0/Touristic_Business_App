@@ -34,28 +34,25 @@ A cross-platform touristic & business application built with **Flutter**, design
 git clone https://github.com/BLINGBLANG0/Touristic_Business_App.git
 cd Touristic_Business_App
 flutter pub get
+```
 
 ▶️ Run the App
+```bash
 flutter run                 # Mobile
 flutter run -d chrome       # Web
 flutter run -d windows      # Desktop (or macos / linux)
+```
 
 🧩 Usage
 This project currently serves as a foundation Flutter app for touristic/business use cases. You can extend it by adding:
-
-Tourism locations & details
-
-Business listings
-
-Map integration
-
-Authentication system
-
-Booking features
-
-Admin dashboard
+- Tourism locations & details
+- Business listings
+- Map integration
+- Authentication system
+- Booking features
+- Admin dashboard
 
 🛠️ Tech Stack
-Flutter (Dart)
-Cross-platform architecture
-Material Design 3 compatible
+- Flutter (Dart)
+- Cross-platform architecture
+- Material Design 3 compatible
